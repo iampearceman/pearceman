@@ -1,1 +1,1 @@
-![gif](https://github.com/pearceman/pearceman/blob/main/github%20hero.gif?raw=true)
+![gif](https://github.com/pearceman/pearceman/blob/main/Github%20pearceman.gif?raw=true)
