@@ -43,7 +43,8 @@
     <img alt="views" title="GitHub profile views" src="(https://komarev.com/ghpvc/?username=pearceman&color=FAC151)
 "/></a>
 </p>
-  ![Profile views](https://gpvc.arturio.dev/pearceman)
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
 ## 📘 My top open source projects
 
