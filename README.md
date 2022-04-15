@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/MawDRfbr" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/iampearceman"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/iampearceman"><img width="32px" alt="Dev.to" title="Pearceman Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/pearceman"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -42,6 +42,7 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="(https://komarev.com/ghpvc/?username=pearceman&color=FAC151)
 "/></a>
+  [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 </p>
 
 ## 📘 My top open source projects
