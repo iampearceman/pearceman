@@ -43,7 +43,7 @@
     <img alt="views" title="GitHub profile views" src="(https://komarev.com/ghpvc/?username=pearceman&color=FAC151)
 "/></a>
 </p>
-  [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+  [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)
 
 ## 📘 My top open source projects
 
