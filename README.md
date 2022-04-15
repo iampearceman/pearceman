@@ -5,7 +5,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=7EDEEA&lines=Junior+Software+Engineer;Community+Builder;Developer+Relations;Blogger;Streamer;Content+Creator;Open+Source+Advocate)](https://git.io/typing-svg)
+  <a href="https://github.com/pearceman"><img src="https://github.com/pearceman/pearceman/blob/main/download.svg"></a>
+</p>
 
 
 <!-- Social icons section -->
