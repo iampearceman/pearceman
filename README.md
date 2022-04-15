@@ -42,8 +42,8 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="(https://komarev.com/ghpvc/?username=pearceman&color=FAC151)
 "/></a>
-  [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 </p>
+  [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
 ## 📘 My top open source projects
 
