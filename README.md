@@ -42,6 +42,8 @@
 <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=pearceman&label=Profile+Views&color=38B6FF&style=for-the-badge&logo=github"/></a>
 </p>
 
+[<img src="https://raw.githubusercontent.com/pearceman/pearceman/main/profile-views.svg" height="50"/>](https://github.com/pearceman)
+
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
