@@ -28,6 +28,3 @@
 </p>
 
 <br />
-
-
-https://bit.ly/3KM8GFm
