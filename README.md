@@ -39,7 +39,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Pearceman"/></a>
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pearceman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=pearceman&style=flat-square"/></a>
+<img alt="views" title="GitHub profile views" src="https://img.shields.io/static/v1?label=Profile%20Views&labelColor=purple&message=x&color=purple&style=for-the-badge&logo=github"/></a>
 </p>
 
 ## 📘 My top open source projects
